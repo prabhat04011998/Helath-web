@@ -1,0 +1,99 @@
+
+
+nav #list ul{
+	list-style: none;
+	display: flex;
+	margin-top: 20px;
+}
+
+
+
+#icons i{
+	font-size: 1.5rem !important;
+	background-color: white;
+	padding: 10px;
+	border-radius: 50%;
+	color: black;
+}
+
+nav .navbar{
+	background-color: #a6bacede !important;
+}
+nav .logo{
+	width: 50px;
+}
+
+nav #list{
+	margin-top: 5px;
+	color: white;
+	font-weight: bolder;
+}
+
+nav #list i{
+	color: blue; 
+}
+.nav .wsite-menu-item,a,a:hover{
+    display: block;
+    padding: 12px 20px;
+text-decoration:none;
+    border: 1px solid transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+	color:white;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    -webkit-transition: opacity 300ms ease;
+    -moz-transition: opacity 300ms ease;
+    -ms-transition: opacity 300ms ease;
+    transition: opacity 300ms ease;
+}
+#reg{
+	background-image: url(bg.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	padding: 160px 100px;
+}
+
+#reg #register{
+	box-sizing: border-box;
+	border:1px solid black;
+	border-radius: 20px;
+	padding: 20px;
+	color: #8385cf;
+	background-color: white;
+}
+
+#reg form .input-group>.input-group-prepend>.input-group-text{
+	width: 40px;
+	background-color: #8385cf;
+	color: white;
+}
+
+#reg .btn{
+	background-color: #8385cf;
+}
+
+#get{
+	font-size: 1.2rem;
+	
+}
+h2{
+	font-weight: 600;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+td{
+	vertical-align: top;
+}
+.wsite-multicol-table-wrap{
+	padding: 4em 6em;
+}
+.fa{
+	color: #000;
+	font-size: 20px;
+}
